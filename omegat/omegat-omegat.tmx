@@ -1,0 +1,465 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx11.dtd">
+<tmx version="1.1">
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="ko"/>
+  <body>
+<!-- Default translations -->
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \forall x \left &lt;g1&gt;\mathrm{class} \ x \rightarrow \left ( x \in \left \{ y \ \middle| \ y \notin y \right \} \leftrightarrow \mathrm{set} \ x \wedge x \notin x \right ) \right&lt;/g1&gt; $ (3, 정확한 치환)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065554Z" creationid="chabulhwi" creationdate="20220317T065554Z">
+        <seg>$ \forall x \left &lt;g1&gt;\mathrm{class} \ x \rightarrow \left ( x \in \left \{ y \ \middle| \ y \notin y \right \} \leftrightarrow \mathrm{set} \ x \wedge x \notin x \right ) \right&lt;/g1&gt; $ (3, Proper substitution)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \forall x \left [ \mathrm{class} \ x \rightarrow \left ( x \in \left \{ y \ \middle| \ y \notin y \right \} \leftrightarrow \mathrm{set} \ x \wedge \left &lt;g1&gt;x / y \right&lt;/g1&gt; y \notin y \right ) \right ] $ (2, 1, 정의 4.3)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065505Z" creationid="chabulhwi" creationdate="20220317T065505Z">
+        <seg>$ \forall x \left [ \mathrm{class} \ x \rightarrow \left ( x \in \left \{ y \ \middle| \ y \notin y \right \} \leftrightarrow \mathrm{set} \ x \wedge \left &lt;g1&gt;x / y \right&lt;/g1&gt; y \notin y \right ) \right ] $ (2, 1, Definition 4.3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \left &lt;g1&gt;x / y \right&lt;/g1&gt; \varphi $는 잘세운식 $ \varphi $에 있는 변수 $ y $를 변수 $ x $로 정확히 바꿔 얻은 잘세운식이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072709Z" creationid="chabulhwi" creationdate="20220317T064615Z">
+        <seg>$ \left &lt;g1&gt;x / y \right&lt;/g1&gt; \varphi $ is the wff that results from the proper substitution of $ y $ for $ x $ in the wff $ \varphi $.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{Ru} = \left \{ y \ \middle| \ y \notin y \right \} $ (1, 정의 5.2)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065301Z" creationid="chabulhwi" creationdate="20220317T065301Z">
+        <seg>$ \mathrm{Ru} = \left \{ y \ \middle| \ y \notin y \right \} $ (1, Definition 5.2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{Ru} \in \mathrm{Ru} \leftrightarrow \mathrm{set} \ \mathrm{Ru} \wedge \mathrm{Ru} \notin \mathrm{Ru} $ (9, 8, 전건 긍정 논법)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065742Z" creationid="chabulhwi" creationdate="20220317T065742Z">
+        <seg>$ \mathrm{Ru} \in \mathrm{Ru} \leftrightarrow \mathrm{set} \ \mathrm{Ru} \wedge \mathrm{Ru} \notin \mathrm{Ru} $ (9, 8, Modus ponens)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{Ru} \notin \mathrm{Ru} \wedge \neg \mathrm{set} \ \mathrm{Ru} $ (10, 논리곱과 쌍조건문의 정의)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065828Z" creationid="chabulhwi" creationdate="20220317T065828Z">
+        <seg>$ \mathrm{Ru} \notin \mathrm{Ru} \wedge \neg \mathrm{set} \ \mathrm{Ru} $ (10, Definitions of conjunction and logical equivalence)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{class} \ A $는 "$ A $는 부류&lt;g1&gt;class&lt;/g1&gt;이다."라는 뜻의 잘세운식이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T071302Z" creationid="chabulhwi" creationdate="20220317T064057Z">
+        <seg>$ \mathrm{class} \ A $ is a wff that means "$ A $ is a class."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{class} \ \left \{ y \ \middle| \ y \notin y \right \} $ (2, 1, 정의 4.2)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065254Z" creationid="chabulhwi" creationdate="20220317T065254Z">
+        <seg>$ \mathrm{class} \ \left \{ y \ \middle| \ y \notin y \right \} $ (2, 1, Definition 4.2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} $ (4, 3, $ = $ 다시 쓰기)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072922Z" creationid="chabulhwi" creationdate="20220317T065346Z">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} $ (4, 3, $ = $-rewriting)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} $ (따름 정리 5.3)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065653Z" creationid="chabulhwi" creationdate="20220317T065653Z">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} $ (Lemma 5.3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} \rightarrow \left ( \mathrm{Ru} \in \left \{ y \ \middle| \ y \notin y \right \} \leftrightarrow \mathrm{set} \ \mathrm{Ru} \wedge \mathrm{Ru} \notin \mathrm{Ru} \right ) $ (5, 4, $ \forall $ 제거)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072855Z" creationid="chabulhwi" creationdate="20220317T065620Z">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} \rightarrow \left ( \mathrm{Ru} \in \left \{ y \ \middle| \ y \notin y \right \} \leftrightarrow \mathrm{set} \ \mathrm{Ru} \wedge \mathrm{Ru} \notin \mathrm{Ru} \right ) $ (5, 4, $ \forall $-elimination)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} \rightarrow \left ( \mathrm{Ru} \in \mathrm{Ru} \leftrightarrow \mathrm{set} \ \mathrm{Ru} \wedge \mathrm{Ru} \notin \mathrm{Ru} \right ) $ (7, 6, $ = $ 다시 쓰기)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072901Z" creationid="chabulhwi" creationdate="20220317T065639Z">
+        <seg>$ \mathrm{class} \ \mathrm{Ru} \rightarrow \left ( \mathrm{Ru} \in \mathrm{Ru} \leftrightarrow \mathrm{set} \ \mathrm{Ru} \wedge \mathrm{Ru} \notin \mathrm{Ru} \right ) $ (7, 6, $ = $-rewriting)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{set} \ a $는 "$ a $는 집합이다."라는 뜻의 잘세운식이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063921Z" creationid="chabulhwi" creationdate="20220317T063921Z">
+        <seg>$ \mathrm{set} \ a $ is a wff that means "$ a $ is a set."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{term} \ \mathrm{Ru} $ (구문 5.1)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065559Z" creationid="chabulhwi" creationdate="20220317T065559Z">
+        <seg>$ \mathrm{term} \ \mathrm{Ru} $ (Syntax 5.1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{term} \ x $는 "$ x $는 항이다."라는 뜻의 진술이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063437Z" creationid="chabulhwi" creationdate="20220317T063437Z">
+        <seg>$ \mathrm{term} \ x $ is a statement that means "$ x $ is a term."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{var} \ x $는 "$ x $는 변수이다."라는 뜻의 진술이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063350Z" creationid="chabulhwi" creationdate="20220317T063350Z">
+        <seg>$ \mathrm{var} \ x $ is a statement that means "$ x $ is a variable."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{var} \ x \ y $ (메타변수 유형 가정)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065451Z" creationid="chabulhwi" creationdate="20220317T065451Z">
+        <seg>$ \mathrm{var} \ x \ y $ (Metavariable-type hypothesis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{var} \ x \ y $는 "$ x $와 $ y $는 변수이다."라는 뜻의 진술이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064454Z" creationid="chabulhwi" creationdate="20220317T064454Z">
+        <seg>$ \mathrm{var} \ x \ y $ is a statement that means "$ x $ and $ y $ are variables."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{var} \ y $ (메타변수 유형 가정)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065235Z" creationid="chabulhwi" creationdate="20220317T065235Z">
+        <seg>$ \mathrm{var} \ y $ (Metavariable-type hypothesis)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{wff} \ \varphi $는 "$ \varphi $는 잘세운식&lt;g1&gt;well-formed formula, wff&lt;/g1&gt;이다."라는 뜻의 진술이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T071913Z" creationid="chabulhwi" creationdate="20220317T063805Z">
+        <seg>$ \mathrm{wff} \ \varphi $ is a statement that means "$ \varphi $ is a wff (well-formed formula)."</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \mathrm{wff} \ y \notin y $ (1, 공리적 집합론의 구문)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065248Z" creationid="chabulhwi" creationdate="20220317T065248Z">
+        <seg>$ \mathrm{wff} \ y \notin y $ (1, The syntax of axiomatic set theory)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \varphi $와 $ \psi $가 잘세운식이라고 하자.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065851Z" creationid="chabulhwi" creationdate="20220317T065851Z">
+        <seg>Let $ \varphi $ and $ \psi $ be wffs.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>$ \varphi \leftrightarrow \psi \wedge \neg \varphi $가 참이면 $ \neg \varphi \wedge \neg \psi $ 또한 참이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T073225Z" creationid="chabulhwi" creationdate="20220317T065913Z">
+        <seg>If $ \varphi \leftrightarrow \psi \wedge \neg \varphi $ is true, then $ \neg \varphi \wedge \neg \psi $ is also true.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>4를 참고하라.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070915Z" creationid="chabulhwi" creationdate="20220317T070915Z">
+        <seg>4.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;구문 1&lt;/g1&gt; 변수</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T062940Z" creationid="chabulhwi" creationdate="20220317T062940Z">
+        <seg>&lt;g1&gt;Syntax 1&lt;/g1&gt; Variables</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;구문 2&lt;/g1&gt; 집합</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063540Z" creationid="chabulhwi" creationdate="20220317T063540Z">
+        <seg>&lt;g1&gt;Syntax 2&lt;/g1&gt; Sets</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;구문 3&lt;/g1&gt; 부류</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063933Z" creationid="chabulhwi" creationdate="20220317T063933Z">
+        <seg>&lt;g1&gt;Syntax 3&lt;/g1&gt; Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;구문 4.1&lt;/g1&gt; 부류 추상화 (1)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064128Z" creationid="chabulhwi" creationdate="20220317T064128Z">
+        <seg>&lt;g1&gt;Syntax 4.1&lt;/g1&gt; Class Abstraction (1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;구문 5.1&lt;/g1&gt; 러셀 부류 (1)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064959Z" creationid="chabulhwi" creationdate="20220317T064709Z">
+        <seg>&lt;g1&gt;Syntax 5.1&lt;/g1&gt; The Russell Class (1)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;따름 정리 5.3&lt;/g1&gt; 러셀 부류 (3)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065126Z" creationid="chabulhwi" creationdate="20220317T065126Z">
+        <seg>&lt;g1&gt;Lemma 5.3&lt;/g1&gt; The Russell Class (3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;정리 6&lt;/g1&gt; 러셀의 역설</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065432Z" creationid="chabulhwi" creationdate="20220317T065432Z">
+        <seg>&lt;g1&gt;Theorem 6&lt;/g1&gt; Russell's Paradox</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;정의 4.2&lt;/g1&gt; 부류 추상화 (2)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064226Z" creationid="chabulhwi" creationdate="20220317T064226Z">
+        <seg>&lt;g1&gt;Definition 4.2&lt;/g1&gt; Class Abstraction (2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;정의 4.3&lt;/g1&gt; 부류 추상화 (3)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064416Z" creationid="chabulhwi" creationdate="20220317T064416Z">
+        <seg>&lt;g1&gt;Definition 4.3&lt;/g1&gt; Class Abstraction (3)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>&lt;g1&gt;정의 5.2&lt;/g1&gt; 러셀 부류 (2)</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064955Z" creationid="chabulhwi" creationdate="20220317T064753Z">
+        <seg>&lt;g1&gt;Definition 5.2&lt;/g1&gt; The Russell Class (2)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>Takeuti and Zaring 1982, chap.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070947Z" creationid="chabulhwi" creationdate="20220317T070911Z">
+        <seg>Cf. Takeuti and Zaring 1982, chap.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>가정</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072209Z" creationid="chabulhwi" creationdate="20220317T063108Z">
+        <seg>Hypotheses</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>따라서 러셀 부류는 그 자신의 원소가 아니다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T073412Z" creationid="chabulhwi" creationdate="20220317T070306Z">
+        <seg>Therefore, the Russell class is not an element of itself.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>러셀 부류는 부류이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065410Z" creationid="chabulhwi" creationdate="20220317T065410Z">
+        <seg>The Russell class is a class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>러셀 부류는 진부류이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070528Z" creationid="chabulhwi" creationdate="20220317T070528Z">
+        <seg>The Russell class is a proper class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>러셀 부류는 집합이 아니므로 어떤 부류의 원소도 될 수 없다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070229Z" creationid="chabulhwi" creationdate="20220317T070229Z">
+        <seg>Since the Russell class is not a set, it is not an element of any classes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>러셀 부류란, 자신을 원소로 갖지 않는 모든 집합의 부류이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065111Z" creationid="chabulhwi" creationdate="20220317T064931Z">
+        <seg>The Russell class is the class of all sets which are not members of themselves.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>모든 집합은 부류이다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070536Z" creationid="chabulhwi" creationdate="20220317T070536Z">
+        <seg>All sets are classes.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>부류의 정의</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T074641Z" creationid="chabulhwi" creationdate="20220317T062857Z">
+        <seg>A Definition of Classes</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>붙임</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065834Z" creationid="chabulhwi" creationdate="20220317T063236Z">
+        <seg>Remarks</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>여기에서는 그 증명을 생략하겠다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070728Z" creationid="chabulhwi" creationdate="20220317T070728Z">
+        <seg>We omit the proof here.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이 구문은 $ A $가 항이면 $ \mathrm{class} \ A $가 잘세운식임을 뜻한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T073219Z" creationid="chabulhwi" creationdate="20220317T064029Z">
+        <seg>This syntax means that if $ A $ is a term, then $ \mathrm{class} \ A $ is a wff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이 구문은 $ a $가 항이면 $ \mathrm{set} \ a $가 잘세운식임을 뜻한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T073132Z" creationid="chabulhwi" creationdate="20220317T063859Z">
+        <seg>This syntax means that if $ a $ is a term, then $ \mathrm{set} \ a $ is a wff.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이 구문은 러셀 부류가 항임을 뜻한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064947Z" creationid="chabulhwi" creationdate="20220317T064749Z">
+        <seg>This syntax means that the Russell class is a term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이 구문은 변수가 항을 나타냄을 뜻한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063526Z" creationid="chabulhwi" creationdate="20220317T063526Z">
+        <seg>This syntax means that a variable denotes a term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이 구문은 부류 추상화&lt;g1&gt;class abstraction&lt;/g1&gt;가 항임을 뜻한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072510Z" creationid="chabulhwi" creationdate="20220317T064211Z">
+        <seg>This syntax means that a class abstraction is a term.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이 정의는 부류 추상화가 부류임을 뜻한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T064320Z" creationid="chabulhwi" creationdate="20220317T064320Z">
+        <seg>This definition means that a class abstraction is a class.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이는 논리곱과 쌍조건문의 정의에 따른 결과이며, 위의 증명의 11단계에서 이용됐다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070056Z" creationid="chabulhwi" creationdate="20220317T070056Z">
+        <seg>This is a result of the definitions of conjunction and logical equivalence, and is used in Step 11 of the above proof.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>이런 치환을 정확한 치환&lt;g2&gt;proper substitution&lt;/g2&gt;이라고 한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T072613Z" creationid="chabulhwi" creationdate="20220317T071742Z">
+        <seg>That is, $ y $ properly replaces $ x $.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>주장</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T063118Z" creationid="chabulhwi" creationdate="20220317T063118Z">
+        <seg>Assertion</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>증명</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065136Z" creationid="chabulhwi" creationdate="20220317T065136Z">
+        <seg>Proof</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>집합이 아닌 부류를 진부류&lt;g1&gt;proper class&lt;/g1&gt;라고 한다.</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T071508Z" creationid="chabulhwi" creationdate="20220317T070404Z">
+        <seg>A proper class is a class that is not a set.</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="ko">
+        <seg>참고 문헌</seg>
+      </tuv>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220317T070959Z" creationid="chabulhwi" creationdate="20220317T070959Z">
+        <seg>References</seg>
+      </tuv>
+    </tu>
+<!-- Alternative translations -->
+  </body>
+</tmx>

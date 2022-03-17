@@ -1,0 +1,14 @@
+3/17/22 4:46 PM
+Project Statistics
+
+                 	Segments	Words	Characters (w/o spaces)	Characters (w/ spaces)	#Files	
+Total:           	     112	  708	                   3423	                  4138	     1	
+Remaining:       	      28	  151	                    956	                  1132	     1	
+Unique:          	      81	  650	                   3204	                  3876	     1	
+Unique Remaining:	      24	  139	                    880	                  1040	     1	
+
+
+Individual File Statistics:
+
+File Name	Total Segments	Remaining Segments	Unique Segments	Unique Remaining Segments	Total Words	Remaining Words	Unique Words	Unique Remaining Words	Total Characters (w/o spaces)	Remaining Characters (w/o spaces)	Unique Characters (w/o spaces)	Unique Remaining Characters (w/o spaces)	Total Characters (w/ spaces)	Remaining Characters (w/ spaces)	Unique Characters (w/ spaces)	Unique Remaining Characters (w/ spaces)	
+class.md 	           112	                28	             81	                       24	        708	            151	         650	                   139	                         3423	                              956	                          3204	                                     880	                        4138	                            1132	                         3876	                                   1040	
