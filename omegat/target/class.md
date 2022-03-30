@@ -68,7 +68,7 @@ $ \mathrm{var} \ y $
 ### Assertion
 $ \mathrm{Ru} = \left \{ y \ \middle| \ y \notin y \right \} $
 ### Remarks
-The Russell class is the class of all sets which are not members of themselves.
+The Russell class is the class of all sets that are not members of themselves.
 
 ## [Lemma 5.3] The Russell Class (3)
 ### Assertion

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE tmx SYSTEM "tmx11.dtd">
 <tmx version="1.1">
-  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.0_0_8ae1ecfb" segtype="sentence" srclang="ko"/>
+  <header creationtool="OmegaT" o-tmf="OmegaT TMX" adminlang="EN-US" datatype="plaintext" creationtoolversion="5.7.1_0_c3206253" segtype="sentence" srclang="ko"/>
   <body>
 <!-- Default translations -->
     <tu>
@@ -328,8 +328,8 @@
       <tuv lang="ko">
         <seg>러셀 부류란, 자신을 원소로 갖지 않는 모든 집합의 부류이다.</seg>
       </tuv>
-      <tuv lang="en" changeid="chabulhwi" changedate="20220317T065111Z" creationid="chabulhwi" creationdate="20220317T064931Z">
-        <seg>The Russell class is the class of all sets which are not members of themselves.</seg>
+      <tuv lang="en" changeid="chabulhwi" changedate="20220330T130119Z" creationid="chabulhwi" creationdate="20220317T064931Z">
+        <seg>The Russell class is the class of all sets that are not members of themselves.</seg>
       </tuv>
     </tu>
     <tu>
